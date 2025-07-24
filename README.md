@@ -87,5 +87,5 @@ See the `LICENSE` file for more details.
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/yourusername/sip-roi-simulator.git
+   git clone https://github.com/Rohit2255/sip-roi-simulator.git
    cd sip-roi-simulator
