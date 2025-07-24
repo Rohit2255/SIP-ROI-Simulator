@@ -33,6 +33,32 @@ The app calculates SIP growth using compound interest principles for periodic in
 It computes investment for each period and compounds it accordingly. The final corpus and gain are then visualized to help users understand long-term wealth creation via SIP.
 
 ---
+## 🧪 Example Output
+
+For example, if a user invests:
+
+- 💸 ₹5000 per month  
+- ⏳ for 10 years  
+- 📈 with an expected annual return of 12%  
+- 📅 and selects a **Monthly** investment frequency  
+
+Then the simulator will compute:
+
+- 📦 **Final Corpus**: ₹11,61,695.38  
+- 💰 **Total Invested**: ₹6,00,000  
+- 📈 **Total Gain**: ₹5,61,695.38  
+
+These results are visualized using interactive charts to help users understand the power of compounding over time.
+
+---
+
+## 👨‍💻 Author
+
+Built with ❤️ by [Rohit Kumar Yadav](https://www.linkedin.com/in/rohit-kumar-yadav-b97360194/)
+
+I'm currently working on [100 Days of Finance Data Science Projects](https://github.com/rohit2255), where I build impactful, real-world projects every day related to finance and data science.
+
+---
 
 ## 🛠 Tech Stack
 
@@ -40,6 +66,20 @@ It computes investment for each period and compounds it accordingly. The final c
 - 📊 [Plotly](https://plotly.com/python/) for visualization
 - 📈 [Pandas](https://pandas.pydata.org/) for data manipulation
 - 🌐 [Streamlit](https://streamlit.io/) for app deployment
+
+---
+
+## 🪪 License
+
+This project is licensed under the **MIT License**.
+
+You are free to:
+
+- ✅ Use it for personal/commercial purposes  
+- 🛠️ Modify and distribute  
+- 🙌 Attribute when sharing is appreciated but not mandatory
+
+See the `LICENSE` file for more details.
 
 ---
 
